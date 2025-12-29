@@ -4,7 +4,7 @@ I am a **Full Stack Developer** with a strong foundation in low-level systems an
 
 Today, I build end-to-end web applications using the **MERN stack (MongoDB, Express, React, Node.js)** and **AngularJS**. I don’t just write code; I focus on the entire lifecycle of an application—from designing responsive frontends to containerizing environments with **Docker** and orchestrating them with **Kubernetes**. 
 
-I am also an advocate for **AI-assisted development**, using cutting-edge tools to optimize code quality and speed up the delivery of robust software solutions.
+I am an **AI-driven Developer**, leveraging cutting-edge LLMs and automation tools to optimize code quality, streamline debugging, and accelerate the delivery of robust software solutions.
 
 ---
 
