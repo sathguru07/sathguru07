@@ -29,12 +29,3 @@ I am also an advocate for **AI-assisted development**, using cutting-edge tools 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AI Tools](https://img.shields.io/badge/AI_Development-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
-### 📫 Connect with me:
-- **LinkedIn:** [sathguruvasan-arunothayan](https://www.linkedin.com/in/sathguruvasan-arunothayan-64548738b)
-- **Instagram:** [@sathguru_22](https://www.instagram.com/sathguru_22)
-- **Email:** [sathguruvasanarunothayan@gmail.com](mailto:sathguruvasanarunothayan@gmail.com)
-
-*"Learning never exhausts the mind, especially when AI is your co-pilot."*
